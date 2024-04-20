@@ -1,10 +1,10 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+## UI for the API's
+link : https://github.com/akheelsajjan/task-managment
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
-
+##About
+1) This Git repository hosts the source code for a dynamic task management application
+2) Used NestJS, TypeORM, PostgreSQL, and JWT for authentication 
+3) Application offers features for task creation, tracking, and management.
 
 ## Description
 
@@ -28,4 +28,5 @@ $ yarn run start:dev
 # production mode
 $ yarn run start:prod
 ```
+
 
